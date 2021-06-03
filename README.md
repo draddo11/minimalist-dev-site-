@@ -1,3 +1,4 @@
+## [![Netlify Status](https://api.netlify.com/api/v1/badges/3d007500-ef17-4739-bb63-f42361564cd2/deploy-status)](https://app.netlify.com/sites/minimalistsite/deploys)
 # portfolio-minimal [(Demo)](https://sivanesh-s.github.io/portfolio-minimal/)
 This is for developers who think
 
